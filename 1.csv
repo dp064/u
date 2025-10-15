@@ -1,0 +1,111 @@
+id,name,type,teams,debut_year,last_year,born,independent
+AA,Andrea Kimi Antonelli,5,Mercedes,2025,,2006,2
+AA2,Alexander Albon,5,Williams,2019,,1996,2
+AG,Antonio Giovinazzi,5,Stake F1,2017,2021,1993,1
+AR,Alexander Rossi,5,Manor Racing,2015,2015,1991,1
+BH,Brendon Hartley,5,Visa Cash App RB,2018,2018,1989,2
+CL,Charles Leclerc,5,Ferrari,2018,,1997,2
+CS,Carlos Sainz,5,Williams,2015,,1994,2
+DK,Daniil Kvyat,5,Visa Cash App RB,2014,2020,1994,2
+DR,Daniel Ricciardo,5,Visa Cash App Racing Bulls,2011,2024,1989,2
+EG,Esteban Gutierrez,5,Haas,2013,2016,1991,1
+EO,Esteban Ocon,5,Haas,2016,,1996,2
+FA,Fernando Alonso,5,Ashton Martin,2001,,1981,1
+FC,Franco Colapinto,5,Alpine,2024,,2003,2
+FM,Felipe Massa,5,Williams,2002,2017,1981,1
+GB,Gabriel Bortoleto,5,Stake F1,2025,,2004,2
+GR,George Russell,5,Mercedes,2019,,1998,2
+IH,Isack Hadjar,5,Visa Cash App Racing Bulls,2025,,2004,2
+JB,Jenson Button,5,McLaren,2000,2016,1980,1
+JD,Jack Doohan,5,Alpine,2024,,2003,2
+JP,Jolyon Palmer,5,Alpine,2016,2017,1991,1
+KM,Kevin Magnussen,5,Haas,2014,2022,1992,2
+KR,Kimi Räikkönen,5,Stake F1,2001,2021,1979,1
+LFN,Luiz Felipe Nasr,5,Stake F1,2015,2016,1992,1
+LH,Lewis Hamilton,5,Ferrari,2007,,1985,2
+LL,Liam Lawson,5,Visa Cash App Racing Bulls,2023,,2002,2
+LN,Lando Norris,5,McLaren,2019,,1999,2
+LS,Lance Stroll,5,Ashton Martin,2017,,1998,2
+LS2,Logan Sargeant,5,Williams,2023,2024,2000,2
+ME,Marcus Ericsson,5,Stake F1,2014,2018,1990,1
+MS,Mick Schumacher,5,Haas,2021,2022,1999,2
+MV,Max Verstappen,5,Redbull,2015,,1997,2
+NH,Nico Hülkenberg,5,Stake F1,2010,,1987,1
+NL,Nicholas Latifi,5,Williams,2019,2022,1995,2
+NM,Nikita Mazepin,5,Haas,2021,2021,1999,1
+NR,Nico Rosberg,5,Mercedes,2006,2016,1985,1
+NV,Nyck de Vries,5,Visa Cash App Racing Bulls,2023,2023,1995,2
+OB,Oliver Bearman,5,Haas,2025,,2005,2
+OP,Oscar Piastri,5,McLaren,2023,,2001,2
+PG,Pierre Gasly,5,Alpine,2017,,1996,2
+PM,Pastor Maldonado,5,Alpine,2011,2015,1985,1
+PW,Pascal Wehrlein,5,Stake F1,2016,2017,1994,2
+RG,Romain Grosjean,5,Haas,2012,2020,1986,1
+RH,Rio Haryanto,5,Manor Racing,2016,2016,1993,1
+RK,Robert Kubica,5,Williams,2006,2019,1984,1
+RM,Roberto Merhi,5,Manor Racing,2015,2015,1991,1
+SP,Sergio Pérez,5,Redbull,2011,2024,1990,2
+SS,Sergey Sirotkin,5,Williams,2018,2018,1995,2
+SV,Sebastian Vettel,5,Aston Martin,2007,2022,1987,2
+SVD,Stoffel Vandoorne,5,McLaren,2017,2018,1992,2
+VB,Valtteri Bottas,5,Stake F1,2013,2024,1989,1
+WS,Will Stevens,5,Manor Racing,2015,2015,1991,2
+YT,Yuki Tsunoda,5,Redbull,2021,,2000,2
+ZG,Zhou Guanyu,5,Stake F1,2022,2024,1999,2
+AP,Alpine Academy,4,,,,,1
+CA,Caterham Academy,4,,,,,1
+FDA,Ferrari Driver Academy,4,,,,,1
+MCL,McLaren Driver Developement Programm,4,,,,,1
+MGP,Mercedes Junior Team,4,,,,,1
+RBR,Red Bull Junior Team,4,,,,,1
+U,unabhängig,4,,,,,1
+WDA,Williams Driver Academy,4,,,,,1
+A3,Arden,3,,,,,1
+ACRS3,Atech CRS GP F3,3,,,,,1
+ART3,ART Grand Prix F3,3,,,,,1
+CRS3,Charouz Racing System F3,3,,,,,1
+DRR3,Double R Racing F3,3,,,,,1
+HGP3,Hitech Grand Prix F3,3,,,,,1
+HWA3,HWA Racelab,3,,,,,1
+JM3,Jenzer Motorsport,3,,,,,1
+M3,Motorpark Academy F3,3,,,,,1
+MM3,Mücke Motorsport,3,,,,,1
+MMT3,Manor Motorsport,3,,,,,1
+MP3,MP Motorsport F3,3,,,,,1
+PR3,Prema Racing F3,3,,,,,1
+RC3,Rodin Carlin F3,3,,,,,1
+S3,Signature F3,3,,,,,1
+SG3,SG Formula F3,3,,,,,1
+TR3,Trident Racing F3,3,,,,,1
+TRB3,Team Rosberg F3 ,3,,,,,1
+VAR3,Van Amersfoort Racing F3,3,,,,,1
+A2,Arden,2,,,,,1
+ART2,ART Grand Prix,2,,,,,1
+CGP2,Campos Grand Prix,2,,,,,1
+CR2,Caterham Racing,2,,,,,1
+DAMS2,DAMS,2,,,,,1
+HGP2,Hitech Grand Prix,2,,,,,1
+HM2,Hilmer Motorsport,2,,,,,1
+HWA2,HWA Racelab,2,,,,,1
+IR2,Invicta Racing,2,,,,,1
+ISI2,iSport International,2,,,,,1
+MP2,MP Motorsport,2,,,,,1
+MSVR2,MSV Racing,2,,,,,1
+ORT2,Ocean Racing Technology,2,,,,,1
+PR2,Prema Racing,2,,,,,1
+RC2,Rodin Carlin,2,,,,,1
+RE2,Racing Engineering,2,,,,,1
+RT2,Rapax Team,2,,,,,1
+SNR2,Super Nova Racing,2,,,,,1
+TR2,Trident Racing,2,,,,,1
+A,BWT Alpine F1 Team,1,,,,,1
+C,Caterham F1 Team,1,,,,,1
+H,MoneyGram Haas F1 Team,1,,,,,1
+HRT,HRT F1 Team,1,,,,,1
+M,Scuderia Minardi,1,,,,,1
+ML,McLaren F1 Team,1,,,,,1
+MR,Manor Racing,1,,,,,1
+S1,Stake F1 Team Kick Sauber,1,,,,,1
+VC,Visa Cash App RB,1,,,,,1
+W,Atlassian Williams Racing,1,,,,,1
+MA,Mercedes-AMG Petronas Formula One Team,1,,,,,1
